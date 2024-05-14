@@ -1,3 +1,4 @@
+These commands provide a comprehensive toolkit for exploring categorical variables in your dataset, helping you understand their distributions, relationships, and impacts on other variables.
 
 ### 1. Importing Libraries
 ```python
@@ -235,4 +236,3 @@ plt.title('Count of Customers by Card Type')
 plt.show()
 ```
 
-These commands provide a comprehensive toolkit for exploring categorical variables in your dataset, helping you understand their distributions, relationships, and impacts on other variables.
