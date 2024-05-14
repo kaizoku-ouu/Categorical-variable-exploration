@@ -11,8 +11,8 @@
 | Tenure             | Refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank. | integer   |
 | Balance            | Also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank compared to those with lower balances. | real      |
 | NumOfProducts      | Refers to the number of products that a customer has purchased through the bank. | integer   |
-| HasCrCard          | Denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank. | string    |
-| IsActiveMember     | Active customers are less likely to leave the bank.    | string    |
+| HasCrCard          | Denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank. | yes/no   |
+| IsActiveMember     | Active customers are less likely to leave the bank.    | yes/no    |
 | EstimatedSalary    | As with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries. | real      |
 | Exited             | Whether or not the customer left the bank.             | string    |
 | Complain           | Whether the customer has a complaint or not.           | string    |
