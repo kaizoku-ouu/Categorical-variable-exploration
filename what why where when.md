@@ -11,6 +11,9 @@
 **Examples:** Number of children in a family, Number of cars in a parking lot.
 
 # Why do we need Categorization Variable Exploration
+
+Exploring variables is a crucial first step in data analysis and machine learning. It involves examining your data closely to understand its characteristics and relationships, helping you make better decisions later on.
+
 Categorization variable exploration is essential for several reasons:
 
 - Data Understanding: Helps in understanding the distribution and frequency of categories.
@@ -28,6 +31,5 @@ Categorization variable exploration is essential for several reasons:
     - **Bar Plot:** The bar plot shows the number of customers from each geography, providing a quick visual comparison of the customer distribution.
     - **Box Plot:** The box plot displays the spread and central tendency of credit scores for customers in each geography, revealing any differences or similarities in 
          credit scores among different regions.
-    - **Histogram:** A histogram is useful for visualizing the distribution of a single continuous variable. For example, we can create a histogram for the CreditScore variable 
-          to see its distribution.
+    - **Histogram:** A histogram is useful for visualizing the distribution of a single continuous variable. For example, we can create a histogram for the CreditScore variable to see its distribution.
 
