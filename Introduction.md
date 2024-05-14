@@ -22,10 +22,20 @@ Categorization variable exploration is essential for several reasons:
 - Insight Extraction: Provides valuable insights about the relationships between categorical variables and target outcomes.
 
 # Topics to Cover in Categorization Variable Exploration.
+-  Identifying Category Variables:
+      - Look for variables that represent qualitative characteristics or attributes, such as Geography, Gender, or Card Type, rather than numerical values.
 -  Frequency Distribution
+      - Analyze how often each category occurs in the dataset, helping to identify dominant categories and rare occurrences.
+      -  **Example:** The frequency distribution of Geography shows that there are 5,000 customers from France, 2,500 from Spain, and 2,500 from Germany.( using value_counts() )
 -  Missing Values
+      - Check for any missing values in categorical variables, which may require imputation or special handling to maintain data integrity.
+      - **Example:** In the dataset, some customers may have missing values for the Balance variable
 -  Encoding Categorical Variables
+      - Convert categorical variables into numerical representations suitable for machine learning algorithms, such as one-hot encoding or label encoding.
+      - **Example:** Suppose we have a categorical variable Gender with values 'Male' and 'Female'. Using label encoding, 'Male' can be encoded as 0 and 'Female' as 1. 
 -  Grouping and Aggregation
+      - Group categorical variables to analyze data at a higher level of abstraction, aggregating information for meaningful insights, such as calculating average income by Geography.
+      - **Example:** Grouping the data by Geography and calculating the mean CreditScore for each country provides insights into average credit scores across different regions.
 -  Visualizing Categorical Data :
     - **Bar Plot:** The bar plot shows the number of customers from each geography, providing a quick visual comparison of the customer distribution.
     - **Box Plot:** The box plot displays the spread and central tendency of credit scores for customers in each geography, revealing any differences or similarities in 
