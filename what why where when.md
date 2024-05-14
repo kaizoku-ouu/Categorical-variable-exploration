@@ -1,7 +1,7 @@
 # What is a Categorical Variable
 - **Definition:** A categorical variable (also known as a qualitative variable) is one that has two or more categories but there is no intrinsic ordering to the categories.\
  **Examples:** Gender (Male, Female), Blood Type (A, B, AB, O).
-
+[more on categorical data in pandas](https://pandas.pydata.org/docs/dev/user_guide/categorical.html)
 # What is a Continuous Variable
 - **Definition:** A continuous variable is one that can take any value within a range. These values are often measured and can be infinitely precise.\
 **Examples:** Height, Weight, Temperature.
