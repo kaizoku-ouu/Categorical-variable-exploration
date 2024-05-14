@@ -30,3 +30,4 @@ Categorization variable exploration is essential for several reasons:
          credit scores among different regions.
     - **Histogram:** A histogram is useful for visualizing the distribution of a single continuous variable. For example, we can create a histogram for the CreditScore variable 
           to see its distribution.
+
