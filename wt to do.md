@@ -1,4 +1,3 @@
-Here are 30 commands you can try in Python using libraries such as Pandas, Seaborn, and Matplotlib to explore the categorical variables in your dataset.
 
 ### 1. Importing Libraries
 ```python
