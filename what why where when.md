@@ -18,10 +18,10 @@ Categorization variable exploration is essential for several reasons:
 - Feature Engineering: Helps in transforming and encoding categorical variables for machine learning models.
 - Insight Extraction: Provides valuable insights about the relationships between categorical variables and target outcomes.
 
-C) Topics to Cover in Categorization Variable Exploration.
-	 i)Identifying Categorical Variables
-	ii)Frequency Distribution
-	iii) Missing Values
-	iv)Encoding Categorical Variables
-	v) Grouping and Aggregation
-	vi)Visualizing Categorical Data
+# Topics to Cover in Categorization Variable Exploration.
+- Identifying Categorical Variables
+-  Frequency Distribution
+-  Missing Values
+-  Encoding Categorical Variables
+-  Grouping and Aggregation
+-  Visualizing Categorical Data
