@@ -37,8 +37,14 @@ Categorization variable exploration is essential for several reasons:
       - Group categorical variables to analyze data at a higher level of abstraction, aggregating information for meaningful insights, such as calculating average income by Geography.
       - **Example:** Grouping the data by Geography and calculating the mean CreditScore for each country provides insights into average credit scores across different regions.
 -  Visualizing Categorical Data :
-    - **Bar Plot:** The bar plot shows the number of customers from each geography, providing a quick visual comparison of the customer distribution.
-    - **Box Plot:** The box plot displays the spread and central tendency of credit scores for customers in each geography, revealing any differences or similarities in 
-         credit scores among different regions.
-    - **Histogram:** A histogram is useful for visualizing the distribution of a single continuous variable. For example, we can create a histogram for the CreditScore variable to see its distribution.
-
+      - **Bar Plot:** The bar plot shows the number of customers from each geography, providing a quick visual comparison of the customer distribution.
+      - **Bar Plot:** Visualizes the distribution of categorical variables, showing the number of customers from each geography for comparison
+      - **Box Plot:** Compares distributions of credit scores for customers across different geographies, revealing differences or similarities.
+      - **Violin Plot:** Provides a detailed view of credit score distribution by geography, similar to box plots but more comprehensive.
+      - **Swarm Plot:** Displays the distribution of numerical variables for each category of a categorical variable, offering detailed insights.
+      - **Point Plot:** Shows the mean value of a numerical variable for each category of a categorical variable, providing a clear representation of central tendency.
+      - **Heatmap:** Reveals the relationship between two categorical variables by displaying their frequencies in a grid format.
+      - **Pie Chart:** Visualizes the proportion of each category within a categorical variable, offering a clear representation of relative sizes.
+      - **Pairplot:** Provides a grid of pairwise relationships in the dataset, with separate plots for different categories of a categorical variable.
+      - **Grouped Statistics:** Provides summary statistics (e.g., mean, median, standard deviation) for numerical variables grouped by categories of a categorical variable.
+      - **Catplot:** Utilizes the `catplot` function from Seaborn library to create multiple categorical plots in a single figure, allowing for comprehensive visualization.
