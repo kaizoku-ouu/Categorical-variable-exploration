@@ -24,9 +24,9 @@ Categorization variable exploration is essential for several reasons:
 -  Missing Values
 -  Encoding Categorical Variables
 -  Grouping and Aggregation
--  Visualizing Categorical Data :-
- - **Bar Plot: The bar plot shows the number of customers from each geography, providing a quick visual comparison of the customer distribution.
- - **Box Plot: The box plot displays the spread and central tendency of credit scores for customers in each geography, revealing any differences or similarities in 
-      credit scores among different regions.
- -  **A histogram is useful for visualizing the distribution of a single continuous variable. For example, we can create a histogram for the CreditScore variable 
-       to see its distribution.
+-  Visualizing Categorical Data :
+    - **Bar Plot:** The bar plot shows the number of customers from each geography, providing a quick visual comparison of the customer distribution.
+    - **Box Plot:** The box plot displays the spread and central tendency of credit scores for customers in each geography, revealing any differences or similarities in 
+         credit scores among different regions.
+    - **Histogram:** A histogram is useful for visualizing the distribution of a single continuous variable. For example, we can create a histogram for the CreditScore variable 
+          to see its distribution.
