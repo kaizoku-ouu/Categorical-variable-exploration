@@ -22,7 +22,6 @@ Categorization variable exploration is essential for several reasons:
 - Insight Extraction: Provides valuable insights about the relationships between categorical variables and target outcomes.
 
 # Topics to Cover in Categorization Variable Exploration.
-- Identifying Categorical Variables
 -  Frequency Distribution
 -  Missing Values
 -  Encoding Categorical Variables
